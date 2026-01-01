@@ -1,3 +1,2 @@
-nombre = input("como te llamas?")
-print("Hola " + nombre, "Bienvenido a Python")
-
+nombre = input("¿Cómo te llamás? ")
+print(f"Hola {nombre}, ¡bienvenido/a al proyecto con Git y Python! 🐍")
